@@ -6,7 +6,7 @@
 - Fix anchor element bug in nav.
 - Heading attributes fall in sequential order.
 - Title element has descriptive element.
-- 
+
 ## Credits
 Starter code from Xandromus (Xander Rapstine) https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/assets/css/style.css
 
